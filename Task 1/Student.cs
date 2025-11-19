@@ -13,7 +13,7 @@ namespace Task_1
         public int age;
         public string faculty;
 
-        // static field 
+        // Static field 
         public static string collegeName = "Itahari International College";
     }
 }
