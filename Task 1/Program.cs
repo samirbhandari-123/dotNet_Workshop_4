@@ -9,14 +9,14 @@ namespace Task_1
             // Creating first student object
             Student s1 = new Student();
             s1.name = "Samir";
-            s1.age = 21;
-            s1.faculty = "Computing";
+            s1.age = 22;
+            s1.faculty = "Bsc.(Hons) of Computing";
 
             // Creating second student object
             Student s2 = new Student();
-            s2.name = "Bikash";
-            s2.age = 22;
-            s2.faculty = "Business";
+            s2.name = "Anuska Khanal";
+            s2.age = 20;
+            s2.faculty = "Charter Account";
 
             // Display Student 1 details
             Console.WriteLine("---- Student 1 ----");
